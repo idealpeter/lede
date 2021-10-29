@@ -8,7 +8,9 @@
 name: OpenWrt-CI
 
 on:
+# 添加工作流钮代码
   workflow_dispatch:
+# 结束
   schedule:
     - cron: 0 20 * * *
   release:
