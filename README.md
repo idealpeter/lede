@@ -72,4 +72,4 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin make -j$(($(np
 
 特别提示：
 ------
-本编编译仅供个人学习。
+本编译仅供个人学习。
